@@ -14,8 +14,8 @@ sklearn = "*"
 google-images-download = "*"
 networkx = "*"
 moviepy = "*"
-opencv-python = "*"
 gtts = "*"
+natsort = "*"
 
 [requires]
 python_version = "3.6.8"
